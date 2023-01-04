@@ -12,7 +12,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Privet");
-            Console.Read();
+            Console.ReadKey();
         }
 
          
